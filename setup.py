@@ -6,9 +6,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         "mecab-python3",
-    ],
-    dependency_links=[
-        'git+https://github.com/miurahr/pykakasi#egg=pykakasi'
+        "pykakasi",
     ],
     description='A library to insert Ruby text for Japanese.',
     url='https://github.com/getuka/RubyInserter.git',
