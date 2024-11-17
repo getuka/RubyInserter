@@ -12,7 +12,7 @@
 Rubyinserterをインストールするには、以下のコマンドを使用してください
 
 ```bash
-pip install git+https://github.com/yourusername/rubyinserter.git
+pip install git+https://github.com/getuka/RubyInserter.git
 ```
 
 ## 使用方法
