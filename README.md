@@ -20,10 +20,10 @@ pip install git+https://github.com/getuka/RubyInserter.git
 Rubyinserterの基本的な使用例
 
 ```python
-from rubyinserter import add_ruby_text
+from rubyinserter import add_ruby
 
 text = "石炭の積み込みがもう終わった。"
-ruby_text = add_ruby_text(text)
+ruby_text = add_ruby(text)
 print(ruby_text)
 ```
 
