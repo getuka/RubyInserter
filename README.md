@@ -9,7 +9,7 @@
 
 ## インストール
 
-Rubyinserterをインストールするには、以下のコマンドを使用してください：
+Rubyinserterをインストールするには、以下のコマンドを使用してください
 
 ```bash
 pip install git+https://github.com/yourusername/rubyinserter.git
@@ -17,7 +17,7 @@ pip install git+https://github.com/yourusername/rubyinserter.git
 
 ## 使用方法
 
-Rubyinserterの基本的な使用例を以下に示します：
+Rubyinserterの基本的な使用例
 
 ```python
 from rubyinserter import add_ruby_text
