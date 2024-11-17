@@ -7,6 +7,7 @@ setup(
     install_requires=[
         "mecab-python3",
         "pykakasi",
+        "unidic-lite"
     ],
     description='A library to insert Ruby text for Japanese.',
     url='https://github.com/getuka/RubyInserter.git',
